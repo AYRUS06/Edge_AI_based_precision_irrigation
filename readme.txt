@@ -4,4 +4,4 @@ members :Maharudra, DM, maharudrar@iisc.ac.in
                  Surya Tomar, DM, suryatomar@iisc.ac.in
 contribution: Maharudra hardwere integration cloud and Edge device and MQTT connection AR app deployment.
 Nikhil N S : data collection data processing objective and domin information gathering  collection.
-Surya : model development and model integration in edge devices and model deployment.
+Surya : Real time data fetching via APIs , model development and model integration in edge devices and model deployment.
